@@ -110,6 +110,6 @@ stages:
                   {
                     "name": "LeaderboardFunctionUrl",
                     "value": "http://$(LeaderboardAppName).azurewebsites.net/api/LeaderboardFunction",
-                    "slotSetting": false
+                    "deploymentslotSetting": false
                   }
                 ]
